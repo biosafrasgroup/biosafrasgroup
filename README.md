@@ -1,49 +1,59 @@
 <h1 align="center">🌱 Biosafras Group</h1>
 
 <p align="center">
-  Innovación, sostenibilidad y tecnología aplicada al agro.
+  Sembrar y producir el alimento que sustentará a generaciones.
 </p>
 
 ---
 
 ## 🚀 Sobre Nosotros
 
-**Biosafras Group** es una empresa enfocada en el desarrollo de soluciones sostenibles para el sector agroindustrial, combinando tecnología, eficiencia operativa y compromiso ambiental.
+**Biosafras Group** es una organización diversificada que opera en cuatro unidades de negocios, destacándose por su enfoque integral en diversos sectores. Cuenta con una unidad especializada en Agronegocios, donde se involucra en actividades relacionadas con la agricultura, la producción, cosecha y acopio de granos. Desde la siembra hasta la cosecha esta unidad se aboca a maximizar la productividad y la eficiencia en el sector agrícola.
 
-Trabajamos para optimizar procesos productivos, mejorar la trazabilidad y generar impacto positivo en toda la cadena de valor.
+También cuenta con una unidad de negocio de Alimentos, donde participa en la producción y distribución de productos alimenticios, específicamente harina, granos empaquetados y otros.
+
+Le sigue la unidad de Estación de Servicios, conformada por varias estaciones de servicios, la cual se encarga de suministrar combustibles y derivados, así como también una diversa gama de productos para el automotor. Cuenta con tiendas de conveniencias para brindar más comodidad a los clientes y visitantes durante su paso por nuestras Estaciones de Servicios
+
+Por último, se cuenta con una unidad Inmobiliaria, encargada en realizar el sueño de contar con un lote propio en algunas localidades, brindando precios accesibles y buena atención. Además, capta y coloca en el mercado arrendamientos de inmuebles agrícolas para el crecimiento del sector en la que se desenvuelve.
+
+Nuevos proyectos e inversiones se esperan para el futuro, especialmente en los rubros de alimentos, agronegocios e inmobiliaria que, gracias al Todopoderoso, a las personas e instituciones que todos los años apoyan a la empresa, a sus accionistas, directivos y colaboradores, se tornarán realidad para seguir contribuyendo al crecimiento de la región y del país, produciendo el alimento para el mundo desde la semilla hasta la mesa.
 
 ---
 
 ## 🌍 Misión
 
-Impulsar la innovación en el agro mediante soluciones tecnológicas sostenibles que aumenten la productividad y reduzcan el impacto ambiental.
+Sembrar y producir el alimento que sustentará a generaciones en conjunto con los agricultores, para poder alimentar a nuestro pueblo con nuestra propia producción.
 
 ---
 
 ## 🔭 Visión
 
-Ser un referente regional en transformación digital agroindustrial, liderando proyectos que integren tecnología, sostenibilidad y eficiencia.
+Ser una empresa renombrada nacional e internacionalmente por acompañar al agricultor desde la siembra hasta que el alimento final esté en su mesa.
 
 ---
 
-## 🛠️ Áreas de Trabajo
+## 🌟 Valores
 
-- 🌾 Agricultura sostenible
-- 📊 Análisis de datos agroindustriales
-- 🧪 Investigación y desarrollo
-- ⚙️ Automatización de procesos
-- 🌱 Soluciones ecológicas
+🌱 Honestidad  
+🤝 Responsabilidad social  
+⚖️ Ética  
+🏆 Calidad  
+🌍 Diversidad  
+💪 Compromiso
 
 ---
 
-## 💻 Tecnologías
+## 🗺️ Nuestras Sucursales
 
-Trabajamos con herramientas modernas para garantizar soluciones escalables:
+<p align="center">
+  <a href="https://www.google.com/maps/d/viewer?mid=1xX14LrcoN5MlbP6TK9hkJfd02Q61hRw" target="_blank">
+    <img src="https://maps.googleapis.com/maps/api/staticmap?center=-25.4,-54.6&zoom=6&size=800x400&markers=color:green" alt="Mapa de sucursales Biosafras">
+  </a>
+</p>
 
-- Backend: APIs y microservicios
-- Data: ETL, análisis y visualización
-- Cloud & DevOps
-- Integración de sistemas
+<p align="center">
+  🔎 Haz clic en el mapa para ver todas nuestras ubicaciones
+</p>
 
 ---
 
@@ -55,20 +65,7 @@ Trabajamos con herramientas modernas para garantizar soluciones escalables:
 
 ---
 
-## 🔗 Redes
-
-- GitHub: [@biosafrasgroup](https://github.com/biosafrasgroup)
-- X (Twitter): [@BiosafrasPy](https://x.com/BiosafrasPy)
-
----
-
 ## 🤝 Colaboración
 
 Estamos abiertos a colaboraciones, alianzas estratégicas y proyectos innovadores.  
 Si tienes una idea o propuesta, no dudes en contactarnos.
-
----
-
-<p align="center">
-  🌱 Cultivando innovación, cosechando futuro.
-</p>
