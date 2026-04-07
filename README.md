@@ -47,7 +47,7 @@ Ser una empresa renombrada nacional e internacionalmente por acompañar al agric
 
 <p align="center">
   <a href="https://www.google.com/maps/d/viewer?mid=1xX14LrcoN5MlbP6TK9hkJfd02Q61hRw" target="_blank">
-    <img src="https://maps.googleapis.com/maps/api/staticmap?center=-25.4,-54.6&zoom=6&size=800x400&markers=color:green" alt="Mapa de sucursales Biosafras">
+    <img width="1248" height="804" alt="Mapa de sucursales Biosafras" src="https://github.com/user-attachments/assets/061006a7-22a5-4627-81db-55bbe7ad665c" />
   </a>
 </p>
 
